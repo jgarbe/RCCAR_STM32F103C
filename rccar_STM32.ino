@@ -3,7 +3,7 @@
  * Project: Control RC Car via Bluetooth with Android Smartphone
  * More information at www.ardumotive.com
  * 
- * Changed this code to fit STM32F103 
+ * Changed this code to fit STM32F103 by Jim Garbe, jimgarbe@gmail.com
  * Note that 8-bit values 0-255 have been changed to
  * reflect 32-bit values 0-65535
  */
