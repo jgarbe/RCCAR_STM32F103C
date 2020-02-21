@@ -11,7 +11,7 @@
  /***************************
   * On the STM32, the analog write still works at 8-bit 255,
   * But you can get the full functionm of the PWM range, 0-65535, by declaring the Pin as PWM
-  *AND using pwnWrite() instead of analogWrite()
+  *AND using pwmWrite() instead of analogWrite()
   ****************************/
 
   
